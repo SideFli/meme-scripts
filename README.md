@@ -1,2 +1,2 @@
 # meme-scripts
-some meme movie scripts
+Some meme movie scripts.
